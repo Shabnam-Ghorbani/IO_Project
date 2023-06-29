@@ -1,0 +1,1054 @@
+۲۳۲۳۳۱.۸۰۳ [main] INFO  ir.maktab.view.Main - start main
+۲۳۲۳۳۱.۸۰۷ [main] INFO  i.m.s.StudentCourseRatingService - start readObjectFromFile
+۲۳۲۷۳۷.۹۲۵ [main] INFO  ir.maktab.view.Main - start main
+۲۳۲۷۳۷.۹۲۹ [main] INFO  i.m.s.StudentCourseRatingService - start readObjectFromFile
+۲۳۲۹۲۲.۷۵۲ [main] INFO  ir.maktab.view.Main - start main
+۲۳۲۹۲۲.۷۵۷ [main] INFO  i.m.s.StudentCourseRatingService - start readObjectFromFile
+۲۳۳۱۰۷.۲۴۷ [main] INFO  ir.maktab.view.Main - start main
+۲۳۳۱۰۷.۲۵۱ [main] INFO  i.m.s.StudentCourseRatingService - start readObjectFromFile
+۲۳۳۱۰۷.۲۵۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۰۷.۴۸۵ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۰۷.۵۸۳ [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.14.Final
+۲۳۳۱۰۷.۹۵۴ [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+۲۳۳۱۰۸.۲۵۳ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۰۸.۲۵۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۰۸.۲۶۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۰۸.۲۶۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۰۸.۲۶۴ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۰۸.۶۰۸ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۰۹.۰۷۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۰۹.۰۷۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۰۹.۵۵۱ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@55d58825] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۰۹.۷۸۱ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۰.۰۱۵ [main] ERROR i.m.repository.CourseRepository - No result forund for... 
+۲۳۳۱۱۰.۰۱۵ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۱۱۰.۰۱۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۰.۰۲۱ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۰.۰۴۲ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۰.۰۴۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۰.۰۴۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۰.۰۴۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۰.۰۴۳ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۰.۱۳۴ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۰.۱۵۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۰.۱۵۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۰.۲۰۸ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@22c53d82] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۰.۳۳۶ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۰.۳۷۱ [main] INFO  i.m.repository.CourseRepository - end: method save student  
+۲۳۳۱۱۰.۳۷۱ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۰.۳۷۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۰.۳۹۷ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۰.۳۹۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۰.۳۹۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۰.۳۹۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۰.۳۹۸ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۰.۵۸۱ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۰.۵۹۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۰.۵۹۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۰.۶۳۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2da99821] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۰.۷۲۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۰.۷۳۲ [main] ERROR i.m.repository.CourseRepository - No result forund for... 
+۲۳۳۱۱۰.۷۳۲ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۱۱۰.۷۳۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۰.۷۳۸ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۰.۷۵۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۰.۷۵۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۰.۷۵۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۰.۷۵۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۰.۷۵۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۰.۹۷۳ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۰.۹۹۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۰.۹۹۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۱.۰۴۲ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@43cb5f38] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۱.۱۳۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۱.۱۴۲ [main] INFO  i.m.repository.CourseRepository -  courseSave 
+۲۳۳۱۱۱.۱۴۳ [main] INFO  ir.maktab.service.CourseService - save course
+۲۳۳۱۱۱.۱۴۳ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۱۱۱.۱۴۳ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۱۱۱.۱۴۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۱.۱۴۸ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۱.۱۶۸ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۱.۱۶۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۱.۱۶۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۱.۱۶۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۱.۱۶۹ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۱.۲۴۲ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۱.۲۵۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۱.۲۵۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۱.۲۹۲ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7bbfc5ff] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۱.۳۸۲ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۱.۴۳۲ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۱۱۱.۴۳۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۱.۴۳۸ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۱.۴۵۶ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۱.۴۵۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۱.۴۵۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۱.۴۵۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۱.۴۵۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۱.۵۲۵ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۱.۵۳۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۱.۵۳۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۱.۵۷۱ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4cc01c7f] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۱.۶۶۱ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۱.۶۶۵ [main] ERROR i.m.repository.CourseRepository - No result forund for... 
+۲۳۳۱۱۱.۶۶۵ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۱۱۱.۶۶۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۱.۶۷۰ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۱.۶۸۶ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۱.۶۸۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۱.۶۸۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۱.۶۸۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۱.۶۸۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۱.۷۵۳ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۱.۷۶۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۱.۷۶۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۱.۸۰۳ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1f7cec93] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۱.۸۸۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۱.۸۹۱ [main] INFO  i.m.repository.CourseRepository - end: method save student  
+۲۳۳۱۱۱.۸۹۱ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۱.۸۹۵ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۱.۹۱۴ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۱.۹۱۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۱.۹۱۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۱.۹۱۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۱.۹۱۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۱.۹۸۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۱.۹۹۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۱.۹۹۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۲.۰۲۶ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4001d8c1] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۲.۱۱۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۲.۱۱۹ [main] ERROR i.m.repository.CourseRepository - No result forund for... 
+۲۳۳۱۱۲.۱۱۹ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۱۱۲.۱۱۹ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۲.۱۲۴ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۲.۱۳۹ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۲.۱۴۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۲.۱۴۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۲.۱۴۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۲.۱۴۰ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۲.۲۰۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۲.۲۲۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۲.۲۲۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۲.۲۴۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@391515c7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۲.۳۳۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۲.۳۴۱ [main] INFO  i.m.repository.CourseRepository -  courseSave 
+۲۳۳۱۱۲.۳۴۲ [main] INFO  ir.maktab.service.CourseService - save course
+۲۳۳۱۱۲.۳۴۲ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۱۱۲.۳۴۲ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۱۱۲.۳۴۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۲.۳۴۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۲.۳۶۳ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۲.۳۶۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۲.۳۶۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۲.۳۶۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۲.۳۶۴ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۲.۴۲۹ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۲.۴۴۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۲.۴۴۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۲.۴۶۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2dd178f3] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۲.۵۵۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۲.۵۶۵ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۱۱۲.۵۶۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۲.۵۷۰ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۲.۵۸۶ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۲.۵۸۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۲.۵۸۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۲.۵۸۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۲.۵۸۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۲.۶۶۴ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۲.۶۸۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۲.۶۸۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۲.۷۰۸ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@284990de] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۲.۷۹۷ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۲.۸۰۴ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۱۱۲.۸۰۴ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۲.۸۱۱ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۲.۸۳۲ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۲.۸۳۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۲.۸۳۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۲.۸۳۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۲.۸۳۴ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۲.۹۰۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۲.۹۲۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۲.۹۲۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۲.۹۴۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@79e10fb4] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۳.۰۳۳ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۳.۰۳۷ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۱۱۳.۰۳۷ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۳.۰۴۱ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۳.۰۵۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۳.۰۵۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۳.۰۵۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۳.۰۵۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۳.۰۵۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۳.۱۲۱ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۳.۱۳۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۳.۱۳۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۳.۱۵۴ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@59e7564b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۳.۲۳۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۳.۲۴۳ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۱۱۳.۲۴۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۳.۲۴۸ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۳.۲۶۱ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۳.۲۶۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۳.۲۶۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۳.۲۶۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۳.۲۶۲ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۳.۳۲۸ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۳.۳۳۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۳.۳۳۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۳.۳۶۸ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@36ad5f2a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۳.۴۵۲ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۳.۴۵۷ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۱۱۳.۴۵۷ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۱۱۳.۴۵۷ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۱۱۳.۴۵۷ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۳.۴۶۲ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۳.۴۷۷ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۳.۴۷۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۳.۴۷۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۳.۴۷۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۳.۴۷۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۳.۵۵۳ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۳.۵۶۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۳.۵۶۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۳.۵۸۶ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5e69cf07] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۳.۶۷۷ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۳.۶۹۶ [main] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: 23505
+۲۳۳۱۱۳.۶۹۶ [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: duplicate key value violates unique constraint "uk_g68ijo4kns1ii6c5nygt6yqpm"
+  Detail: Key (course_id)=(3) already exists.
+۲۳۳۱۱۳.۷۰۲ [main] INFO  o.h.e.j.b.i.AbstractBatchImpl - HHH000010: On release of batch it still contained JDBC statements
+۲۳۳۱۱۳.۷۰۸ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۱۱۳.۷۰۸ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۳.۷۱۲ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۳.۷۲۶ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۳.۷۲۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۳.۷۲۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۳.۷۲۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۳.۷۲۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۳.۷۹۱ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۳.۸۰۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۳.۸۰۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۳.۸۳۸ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@56ec6960] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۳.۹۳۱ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۳.۹۳۶ [main] ERROR i.m.repository.CourseRepository - No result forund for... 
+۲۳۳۱۱۳.۹۳۶ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۱۱۳.۹۳۶ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۳.۹۴۱ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۳.۹۵۴ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۳.۹۵۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۳.۹۵۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۳.۹۵۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۳.۹۵۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۴.۰۲۲ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۴.۰۳۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۴.۰۳۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۴.۰۵۲ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6b24ddd7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۴.۱۴۱ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۴.۱۴۴ [main] INFO  i.m.repository.CourseRepository - end: method save student  
+۲۳۳۱۱۴.۱۴۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۴.۱۴۹ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۴.۱۶۳ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۴.۱۶۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۴.۱۶۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۴.۱۶۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۴.۱۶۳ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۴.۳۶۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۴.۳۸۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۴.۳۸۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۴.۴۱۳ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@25fd6d1e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۴.۴۹۲ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۴.۴۹۶ [main] ERROR i.m.repository.CourseRepository - No result forund for... 
+۲۳۳۱۱۴.۴۹۶ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۱۱۴.۴۹۶ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۴.۵۰۰ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۴.۵۱۴ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۴.۵۱۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۴.۵۱۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۴.۵۱۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۴.۵۱۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۴.۵۸۰ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۴.۵۹۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۴.۵۹۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۴.۶۱۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@12448de1] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۴.۶۹۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۴.۷۰۲ [main] INFO  i.m.repository.CourseRepository -  courseSave 
+۲۳۳۱۱۴.۷۰۲ [main] INFO  ir.maktab.service.CourseService - save course
+۲۳۳۱۱۴.۷۰۲ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۱۱۴.۷۰۲ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۱۱۴.۷۰۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۴.۷۰۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۴.۷۲۱ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۴.۷۲۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۴.۷۲۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۴.۷۲۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۴.۷۲۲ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۴.۹۴۳ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۴.۹۵۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۴.۹۵۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۴.۹۸۴ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@ac4e690] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۵.۰۶۷ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۵.۰۷۵ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۱۱۵.۰۷۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۵.۰۷۹ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۵.۰۹۲ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۵.۰۹۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۵.۰۹۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۵.۰۹۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۵.۰۹۳ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۵.۱۵۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۵.۱۷۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۵.۱۷۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۵.۱۹۱ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4315fe1b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۵.۲۷۳ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۵.۲۷۷ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۱۱۵.۲۷۷ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۵.۲۸۱ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۵.۲۹۹ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۵.۲۹۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۵.۳۰۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۵.۳۰۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۵.۳۰۰ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۵.۳۷۰ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۵.۳۸۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۵.۳۸۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۵.۳۹۸ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2fa212df] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۵.۴۸۱ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۵.۴۸۵ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۱۱۵.۴۸۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۵.۴۸۹ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۵.۵۰۲ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۵.۵۰۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۵.۵۰۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۵.۵۰۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۵.۵۰۳ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۵.۷۲۱ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۵.۷۳۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۵.۷۳۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۵.۷۴۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@661db63e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۵.۸۲۷ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۵.۸۲۹ [main] ERROR i.m.repository.CourseRepository - No result forund for... 
+۲۳۳۱۱۵.۸۳۰ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۱۱۵.۸۳۰ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۵.۸۳۳ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۵.۸۴۷ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۵.۸۴۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۵.۸۴۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۵.۸۴۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۵.۸۴۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۵.۹۱۰ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۵.۹۲۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۵.۹۲۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۵.۹۴۳ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@338a4c61] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۶.۰۲۹ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۶.۰۳۲ [main] INFO  i.m.repository.CourseRepository -  courseSave 
+۲۳۳۱۱۶.۰۳۳ [main] INFO  ir.maktab.service.CourseService - save course
+۲۳۳۱۱۶.۰۳۳ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۱۱۶.۰۳۳ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۱۱۶.۰۳۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۱۱۶.۰۳۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۱۱۶.۰۵۱ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۱۱۶.۰۵۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۱۱۶.۰۵۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۱۱۶.۰۵۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۱۱۶.۰۵۱ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۱۱۶.۱۲۰ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۱۱۶.۱۳۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۶.۱۳۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۱۱۶.۱۴۸ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7e89eba7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۱۱۶.۲۲۹ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۱۱۶.۲۳۸ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۱۱۶.۲۳۸ [main] INFO  i.m.s.StudentCourseRatingService - readObjectFromFile method do good
+۲۳۳۱۱۶.۲۳۸ [main] INFO  ir.maktab.view.Main - end main
+۲۳۳۸۰۰.۴۵۸ [main] INFO  ir.maktab.view.Main - start main
+۲۳۳۸۰۰.۴۶۲ [main] INFO  i.m.s.StudentCourseRatingService - start readObjectFromFile
+۲۳۳۹۰۰.۹۲۰ [main] INFO  ir.maktab.view.Main - start main
+۲۳۳۹۰۰.۹۲۴ [main] INFO  i.m.s.StudentCourseRatingService - start readObjectFromFile
+۲۳۳۹۰۰.۹۲۶ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۱.۱۳۲ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۱.۲۰۹ [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.14.Final
+۲۳۳۹۰۱.۵۲۸ [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+۲۳۳۹۰۱.۸۱۲ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۱.۸۱۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۱.۸۱۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۱.۸۱۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۱.۸۲۳ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۲.۲۱۶ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۲.۶۴۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۲.۶۴۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۳.۱۳۲ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1645f294] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۳.۲۶۴ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۳.۴۷۱ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۳.۴۷۱ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۳.۴۷۶ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۳.۴۹۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۳.۴۹۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۳.۴۹۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۳.۴۹۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۳.۴۹۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۳.۶۹۶ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۳.۷۱۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۳.۷۱۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۳.۷۷۳ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6bcb12e6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۳.۸۶۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۳.۸۷۰ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۳.۸۷۰ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۳.۸۷۶ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۳.۸۹۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۳.۸۹۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۳.۸۹۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۳.۸۹۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۳.۸۹۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۴.۰۷۹ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۴.۱۰۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۴.۱۰۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۴.۱۴۸ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@79f90a3a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۴.۲۴۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۴.۲۵۰ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۴.۲۵۰ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۴.۲۵۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۴.۲۸۲ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۴.۲۸۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۴.۲۸۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۴.۲۸۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۴.۲۸۳ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۴.۳۵۸ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۴.۳۷۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۴.۳۷۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۴.۴۲۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@f25f48a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۴.۵۰۹ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۴.۵۱۳ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۴.۵۱۳ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۹۰۴.۵۱۳ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۹۰۴.۵۱۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۴.۵۱۸ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۴.۵۳۴ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۴.۵۳۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۴.۵۳۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۴.۵۳۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۴.۵۳۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۴.۶۰۰ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۴.۶۱۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۴.۶۱۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۴.۶۴۹ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3d88e6b9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۴.۷۳۳ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۴.۷۷۹ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۹۰۴.۷۷۹ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۴.۷۸۴ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۴.۸۰۱ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۴.۸۰۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۴.۸۰۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۴.۸۰۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۴.۸۰۱ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۴.۸۶۸ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۴.۸۸۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۴.۸۸۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۴.۹۱۳ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@19b02dfd] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۴.۹۹۹ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۵.۰۰۳ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۵.۰۰۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۵.۰۰۸ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۵.۰۲۴ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۵.۰۲۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۵.۰۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۵.۰۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۵.۰۲۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۵.۰۹۸ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۵.۱۱۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۵.۱۱۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۵.۱۴۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@51a16adf] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۵.۲۲۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۵.۲۳۲ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۵.۲۳۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۵.۲۳۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۵.۲۵۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۵.۲۵۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۵.۲۵۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۵.۲۵۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۵.۲۵۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۵.۳۲۳ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۵.۳۳۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۵.۳۳۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۵.۳۶۳ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@d653e41] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۵.۴۴۹ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۵.۴۵۳ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۵.۴۵۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۵.۴۵۸ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۵.۴۷۳ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۵.۴۷۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۵.۴۷۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۵.۴۷۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۵.۴۷۴ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۵.۵۴۱ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۵.۵۵۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۵.۵۵۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۵.۵۹۹ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3b435211] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۵.۶۹۳ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۵.۶۹۹ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۵.۶۹۹ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۹۰۵.۶۹۹ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۹۰۵.۶۹۹ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۵.۷۰۵ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۵.۷۲۴ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۵.۷۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۵.۷۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۵.۷۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۵.۷۲۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۵.۸۰۴ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۵.۸۲۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۵.۸۲۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۵.۸۵۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@463afa6e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۵.۹۴۲ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۵.۹۵۰ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۹۰۵.۹۵۰ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۵.۹۵۶ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۵.۹۷۱ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۵.۹۷۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۵.۹۷۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۵.۹۷۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۵.۹۷۲ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۶.۰۳۸ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۶.۰۵۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۰۵۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۰۹۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@755b5f30] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۶.۱۸۱ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۶.۱۸۷ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۶.۱۸۷ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۶.۱۹۲ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۶.۲۰۶ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۶.۲۰۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۶.۲۰۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۶.۲۰۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۶.۲۰۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۶.۲۷۱ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۶.۲۸۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۲۸۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۳۰۶ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2d237460] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۶.۳۹۱ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۶.۳۹۵ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۶.۳۹۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۶.۴۰۰ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۶.۴۱۳ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۶.۴۱۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۶.۴۱۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۶.۴۱۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۶.۴۱۴ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۶.۴۷۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۶.۴۸۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۴۸۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۵۱۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5ac044ef] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۶.۵۹۲ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۶.۵۹۵ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۶.۵۹۶ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۶.۶۰۰ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۶.۶۱۶ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۶.۶۱۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۶.۶۱۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۶.۶۱۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۶.۶۱۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۶.۶۸۶ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۶.۶۹۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۶۹۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۷۱۹ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@19eea77c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۶.۸۰۷ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۶.۸۱۱ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۶.۸۱۱ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۹۰۶.۸۱۱ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۹۰۶.۸۱۱ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۶.۸۱۵ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۶.۸۳۰ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۶.۸۳۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۶.۸۳۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۶.۸۳۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۶.۸۳۰ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۶.۹۰۱ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۶.۹۱۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۹۱۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۶.۹۳۴ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7871d261] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۷.۰۳۲ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۷.۰۷۰ [main] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: 23505
+۲۳۳۹۰۷.۰۷۰ [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: duplicate key value violates unique constraint "uk_g68ijo4kns1ii6c5nygt6yqpm"
+  Detail: Key (course_id)=(3) already exists.
+۲۳۳۹۰۷.۰۷۲ [main] INFO  o.h.e.j.b.i.AbstractBatchImpl - HHH000010: On release of batch it still contained JDBC statements
+۲۳۳۹۰۷.۰۷۸ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۹۰۷.۰۷۹ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۷.۰۸۴ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۷.۰۹۹ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۷.۰۹۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۷.۰۹۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۷.۰۹۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۷.۱۰۰ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۷.۱۶۸ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۷.۱۷۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۷.۱۷۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۷.۱۹۹ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@9f0fc36] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۷.۲۸۹ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۷.۲۹۳ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۷.۲۹۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۷.۲۹۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۷.۳۱۰ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۷.۳۱۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۷.۳۱۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۷.۳۱۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۷.۳۱۱ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۷.۳۷۵ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۷.۳۸۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۷.۳۸۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۷.۴۰۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@505f45cc] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۷.۴۸۹ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۷.۴۹۲ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۷.۴۹۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۷.۴۹۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۷.۵۱۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۷.۵۱۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۷.۵۱۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۷.۵۱۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۷.۵۱۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۷.۶۸۹ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۷.۶۹۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۷.۷۰۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۷.۷۱۹ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@592a1882] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۷.۸۰۳ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۷.۸۰۷ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۷.۸۰۷ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۷.۸۱۱ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۷.۸۲۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۷.۸۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۷.۸۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۷.۸۲۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۷.۸۲۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۷.۸۹۲ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۷.۹۰۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۷.۹۰۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۷.۹۲۴ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@399af6dc] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۸.۰۰۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۸.۰۰۹ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۸.۰۰۹ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۹۰۸.۰۰۹ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۹۰۸.۰۰۹ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۸.۰۱۴ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۸.۰۲۹ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۸.۰۳۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۸.۰۳۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۸.۰۳۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۸.۰۳۰ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۸.۰۹۹ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۸.۱۱۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۱۱۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۱۳۹ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4a4b288a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۸.۲۲۳ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۸.۲۳۰ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۹۰۸.۲۳۰ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۸.۲۳۴ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۸.۲۴۸ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۸.۲۴۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۸.۲۴۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۸.۲۴۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۸.۲۴۸ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۸.۳۱۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۸.۳۲۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۳۲۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۳۵۳ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@63326a3a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۸.۴۳۹ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۸.۴۴۳ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۸.۴۴۴ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۸.۴۴۹ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۸.۴۶۶ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۸.۴۶۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۸.۴۶۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۸.۴۶۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۸.۴۶۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۸.۵۳۵ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۸.۵۴۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۵۴۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۵۶۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@23ec2bdc] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۸.۶۶۱ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۸.۶۶۴ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۳۹۰۸.۶۶۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۸.۶۶۹ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۸.۶۸۴ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۸.۶۸۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۸.۶۸۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۸.۶۸۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۸.۶۸۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۸.۷۵۴ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۸.۷۶۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۷۶۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۷۸۲ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@a99c42c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۸.۸۶۳ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۸.۸۶۷ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۸.۸۶۷ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۸.۸۷۳ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۸.۸۸۶ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۸.۸۸۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۸.۸۸۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۸.۸۸۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۸.۸۸۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۸.۹۴۹ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۸.۹۶۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۹۶۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۸.۹۸۴ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@39f93225] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۹.۰۶۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۹.۰۷۳ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۳۹۰۹.۰۷۳ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۳۹۰۹.۰۷۳ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۳۹۰۹.۰۷۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۳۹۰۹.۰۷۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۳۹۰۹.۰۹۰ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۳۹۰۹.۰۹۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۳۹۰۹.۰۹۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۳۹۰۹.۰۹۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۳۹۰۹.۰۹۱ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۳۹۰۹.۱۶۱ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۳۹۰۹.۱۷۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۹.۱۷۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۳۹۰۹.۱۹۱ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@775c4054] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۳۹۰۹.۲۷۱ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۳۹۰۹.۲۸۰ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۳۹۰۹.۲۸۰ [main] INFO  i.m.s.StudentCourseRatingService - readObjectFromFile method do good
+۲۳۳۹۰۹.۲۸۰ [main] INFO  ir.maktab.view.Main - end main
+۲۳۴۱۱۱.۹۴۶ [main] INFO  ir.maktab.view.Main - start main
+۲۳۴۱۱۱.۹۴۹ [main] INFO  i.m.s.StudentCourseRatingService - start readObjectFromFile
+۲۳۴۱۱۱.۹۵۰ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۲.۱۴۶ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۲.۲۳۲ [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.14.Final
+۲۳۴۱۱۲.۵۴۱ [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+۲۳۴۱۱۲.۸۲۴ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۲.۸۲۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۲.۸۲۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۲.۸۳۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۲.۸۳۴ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۳.۱۱۱ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۳.۵۲۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۳.۵۲۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۳.۹۹۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@46aa712c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۴.۱۰۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۴.۳۱۳ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۴.۳۱۴ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۴.۳۲۰ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۴.۳۳۸ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۴.۳۳۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۴.۳۳۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۴.۳۳۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۴.۳۳۹ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۴.۴۲۳ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۴.۴۳۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۴.۴۳۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۴.۴۸۹ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7134b8a7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۴.۵۸۰ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۴.۵۸۴ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۴.۵۸۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۴.۵۹۰ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۴.۶۰۹ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۴.۶۰۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۴.۶۰۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۴.۶۰۹ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۴.۶۱۰ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۴.۷۸۵ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۴.۸۰۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۴.۸۰۲ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۴.۸۴۱ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@416d56f2] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۴.۹۳۶ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۴.۹۴۱ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۱۴.۹۴۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۴.۹۴۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۴.۹۶۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۴.۹۶۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۴.۹۶۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۴.۹۶۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۴.۹۶۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۵.۱۷۳ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۵.۱۹۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۵.۱۹۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۵.۲۴۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@66522ead] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۵.۳۳۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۵.۳۴۳ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۱۵.۳۴۳ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۴۱۱۵.۳۴۴ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۴۱۱۵.۳۴۴ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۵.۳۵۱ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۵.۳۷۳ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۵.۳۷۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۵.۳۷۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۵.۳۷۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۵.۳۷۴ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۵.۴۳۹ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۵.۴۵۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۵.۴۵۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۵.۴۹۱ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@606a1bc4] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۵.۵۷۴ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۵.۶۲۳ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۴۱۱۵.۶۲۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۵.۶۲۸ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۵.۶۴۶ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۵.۶۴۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۵.۶۴۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۵.۶۴۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۵.۶۴۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۵.۷۱۳ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۵.۷۲۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۵.۷۲۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۵.۷۶۴ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@25b38203] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۵.۸۵۰ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۵.۸۵۴ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۵.۸۵۴ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۵.۸۶۰ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۵.۸۷۷ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۵.۸۷۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۵.۸۷۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۵.۸۷۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۵.۸۷۸ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۵.۹۴۲ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۵.۹۵۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۵.۹۵۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۵.۹۸۵ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5e7abaf7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۶.۰۷۴ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۶.۰۷۹ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۶.۰۷۹ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۶.۰۸۴ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۶.۱۰۱ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۶.۱۰۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۶.۱۰۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۶.۱۰۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۶.۱۰۲ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۶.۳۰۵ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۶.۳۱۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۶.۳۱۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۶.۳۴۶ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@71a4f441] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۶.۴۳۰ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۶.۴۳۴ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۱۶.۴۳۴ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۶.۴۳۹ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۶.۴۵۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۶.۴۵۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۶.۴۵۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۶.۴۵۶ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۶.۴۵۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۶.۵۲۲ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۶.۵۳۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۶.۵۳۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۶.۵۶۳ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@269222ae] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۶.۶۵۷ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۶.۶۶۲ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۱۶.۶۶۲ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۴۱۱۶.۶۶۲ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۴۱۱۶.۶۶۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۶.۶۶۹ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۶.۶۸۷ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۶.۶۸۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۶.۶۸۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۶.۶۸۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۶.۶۸۸ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۶.۸۵۸ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۶.۸۷۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۶.۸۷۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۶.۹۰۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7aa01bd9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۶.۹۸۷ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۶.۹۹۵ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۴۱۱۶.۹۹۵ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۷.۰۰۰ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۷.۰۱۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۷.۰۱۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۷.۰۱۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۷.۰۱۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۷.۰۱۶ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۷.۰۸۲ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۷.۰۹۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۰۹۴ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۱۲۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@120aa40b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۷.۲۲۴ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۷.۲۲۸ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۷.۲۲۸ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۷.۲۳۳ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۷.۲۵۲ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۷.۲۵۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۷.۲۵۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۷.۲۵۴ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۷.۲۵۴ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۷.۳۱۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۷.۳۲۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۳۲۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۳۵۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4faf1f4] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۷.۴۲۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۷.۴۳۳ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۷.۴۳۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۷.۴۳۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۷.۴۵۱ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۷.۴۵۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۷.۴۵۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۷.۴۵۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۷.۴۵۲ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۷.۵۱۶ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۷.۵۲۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۵۲۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۵۴۸ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@105db94d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۷.۶۲۷ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۷.۶۳۱ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۱۷.۶۳۱ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۷.۶۳۵ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۷.۶۵۰ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۷.۶۵۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۷.۶۵۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۷.۶۵۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۷.۶۵۰ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۷.۷۱۴ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۷.۷۲۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۷۲۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۷۴۸ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1544ded3] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۷.۸۲۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۷.۸۳۱ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۱۷.۸۳۱ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۴۱۱۷.۸۳۱ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۴۱۱۷.۸۳۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۷.۸۳۶ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۷.۸۵۰ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۷.۸۵۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۷.۸۵۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۷.۸۵۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۷.۸۵۱ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۷.۹۱۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۷.۹۲۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۹۲۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۷.۹۵۱ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5e5a8718] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۸.۰۴۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۸.۰۸۳ [main] WARN  o.h.e.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: 23505
+۲۳۴۱۱۸.۰۸۴ [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - ERROR: duplicate key value violates unique constraint "uk_g68ijo4kns1ii6c5nygt6yqpm"
+  Detail: Key (course_id)=(3) already exists.
+۲۳۴۱۱۸.۰۸۶ [main] INFO  o.h.e.j.b.i.AbstractBatchImpl - HHH000010: On release of batch it still contained JDBC statements
+۲۳۴۱۱۸.۰۹۲ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۴۱۱۸.۰۹۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۸.۰۹۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۸.۱۱۱ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۸.۱۱۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۸.۱۱۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۸.۱۱۱ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۸.۱۱۲ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۸.۱۷۶ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۸.۱۸۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۸.۱۸۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۸.۲۱۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@667797f] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۸.۲۹۷ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۸.۳۰۱ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۸.۳۰۱ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۸.۳۰۶ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۸.۳۲۰ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۸.۳۲۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۸.۳۲۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۸.۳۲۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۸.۳۲۰ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۸.۳۸۵ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۸.۳۹۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۸.۳۹۵ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۸.۴۱۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@36d697ab] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۸.۵۰۳ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۸.۵۰۷ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۸.۵۰۸ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۸.۵۱۲ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۸.۵۲۵ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۸.۵۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۸.۵۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۸.۵۲۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۸.۵۲۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۸.۵۸۹ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۸.۵۹۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۸.۵۹۹ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۸.۶۲۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5d27b4c1] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۸.۷۰۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۸.۷۰۸ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۱۸.۷۰۸ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۸.۷۱۳ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۸.۷۲۷ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۸.۷۲۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۸.۷۲۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۸.۷۲۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۸.۷۲۸ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۸.۷۹۰ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۸.۸۰۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۸.۸۰۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۸.۸۳۰ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@24405466] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۸.۹۱۰ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۸.۹۱۴ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۱۸.۹۱۴ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۴۱۱۸.۹۱۴ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۴۱۱۸.۹۱۴ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۸.۹۱۸ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۸.۹۳۲ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۸.۹۳۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۸.۹۳۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۸.۹۳۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۸.۹۳۳ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۸.۹۹۵ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۹.۰۰۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۹.۰۰۶ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۹.۰۲۵ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@da22aa] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۹.۱۰۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۹.۱۱۱ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۴۱۱۹.۱۱۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۹.۱۱۶ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۹.۱۳۴ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۹.۱۳۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۹.۱۳۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۹.۱۳۵ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۹.۱۳۵ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۹.۳۳۷ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۹.۳۴۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۹.۳۴۸ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۹.۳۶۶ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@269c7104] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۹.۴۴۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۹.۴۴۹ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۹.۴۴۹ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۹.۴۵۳ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۹.۴۶۸ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۹.۴۶۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۹.۴۶۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۹.۴۶۸ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۹.۴۶۸ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۹.۵۳۲ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۹.۵۴۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۹.۵۴۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۹.۵۶۳ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@279c4e3b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۹.۶۴۸ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۹.۶۵۲ [main] INFO  ir.maktab.service.StudentService - find student by name
+۲۳۴۱۱۹.۶۵۲ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۹.۶۵۷ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۱۹.۶۷۲ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۱۹.۶۷۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۱۹.۶۷۲ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۱۹.۶۷۳ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۱۹.۶۷۳ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۱۹.۸۸۰ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۱۹.۸۹۰ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۹.۸۹۱ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۱۹.۹۰۷ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@628b503a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۱۹.۹۸۹ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۱۹.۹۹۳ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۱۹.۹۹۳ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۱۹.۹۹۶ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۲۰.۰۰۹ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۲۰.۰۱۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۲۰.۰۱۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۲۰.۰۱۰ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۲۰.۰۱۰ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۲۰.۰۷۳ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۲۰.۰۸۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۲۰.۰۸۳ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۲۰.۱۰۱ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1b25d695] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۲۰.۱۸۵ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۲۰.۱۸۸ [main] INFO  ir.maktab.service.CourseService - find course by name
+۲۳۴۱۲۰.۱۸۸ [main] INFO  i.m.s.StudentCourseRatingService - change localDate to date
+۲۳۴۱۲۰.۱۸۸ [main] INFO  i.m.s.StudentCourseRatingService - save object studentCourseRating
+۲۳۴۱۲۰.۱۸۸ [main] INFO  i.m.repository.CourseRepository -  initialization.
+۲۳۴۱۲۰.۱۹۲ [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: PU]
+۲۳۴۱۲۰.۲۰۷ [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+۲۳۴۱۲۰.۲۰۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://127.0.0.1:5432/maktab]
+۲۳۴۱۲۰.۲۰۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+۲۳۴۱۲۰.۲۰۷ [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+۲۳۴۱۲۰.۲۰۷ [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+۲۳۴۱۲۰.۲۷۶ [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+۲۳۴۱۲۰.۲۸۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000038: Composite-id class does not override equals(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۲۰.۲۸۷ [main] WARN  org.hibernate.mapping.RootClass - HHH000039: Composite-id class does not override hashCode(): ir.maktab.entity.StudentCourseRatingId
+۲۳۴۱۲۰.۳۰۴ [main] INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@407f2029] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+۲۳۴۱۲۰.۳۸۶ [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+۲۳۴۱۲۰.۳۹۳ [main] INFO  i.m.r.StuCourseRatingRepository - StudentCourseRating save 
+۲۳۴۱۲۰.۳۹۳ [main] INFO  i.m.s.StudentCourseRatingService - readObjectFromFile method do good
+۲۳۴۱۲۰.۳۹۳ [main] INFO  ir.maktab.view.Main - end main
